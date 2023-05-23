@@ -1,0 +1,93 @@
+{
+  "contacts": [
+    {
+      "fullname": "sami",
+      "photo": "https://toplearn.com/img/user/teachers/5330_8314f4b2-34a0-8873-aaf8-39e35e71fa6b_%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D8%B1%D8%AF%D9%88%D8%AE%D8%A7%D9%86%DB%8C.png",
+      "email": "alpha@gmail.com",
+      "job": "software Enginer",
+      "mobile": "0252525252525",
+      "group": "3",
+      "id": 1
+    },
+    {
+      "fullname": "shoaib",
+      "photo": "https://mattfarley.ca/img/mf-avatar.svg",
+      "email": "bigzad98@gmail.com",
+      "mobile": "0789522502",
+      "job": [
+        "software Eng"
+      ],
+      "group": "1",
+      "id": 3
+    },
+    {
+      "fullname": "mohammad ali",
+      "photo": "https://mattfarley.ca/img/mf-avatar.svg",
+      "mobile": "0202502149",
+      "email": "sha@gmial.com",
+      "job": "modir",
+      "group": "1",
+      "id": 5
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "jhghj",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "sdf",
+      "name": "dsf",
+      "password": "sdf",
+      "email": "sdfsd@gmail.com",
+      "phone": "",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": "Mohammadi",
+      "name": "Mohammadi",
+      "password": "Mohammadi",
+      "email": "Mohammadi@gmial.com",
+      "phone": "202021454",
+      "address": "kabul",
+      "gender": "male"
+    }
+  ]
+}
